@@ -1,0 +1,15 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.restart {
+  margin: 1em auto;
+  padding: 0.3em 1.3em;
+  display: block;
+  cursor: pointer;
+}
